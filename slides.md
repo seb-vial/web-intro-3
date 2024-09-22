@@ -720,6 +720,8 @@ Make a great color transition
   </div>
 </div>
 
+<img v-motion v-click :initial="{x: 999, y: -999}" :enter="{x: 560, y: -275}" class="absolute rounded-md border-2 border-teal-600 h-56" src="/images/gifs/math1.webp" alt="Math thinking GIF" />
+
 ---
 layout: dynamic-image
 image: ./images/gradient.jpg
@@ -1020,6 +1022,8 @@ Different radius for horizontal and vertical axis; Ellispis, here we come.
   <div class="p-1 flex items-center justify-center border border-red h-12 w-12 rounded-full mx-auto text-[8px]">I’m a circle</div>
 </div>
 
+<img v-motion v-click :initial="{x: 999, y: -999}" :enter="{x: 555, y: -285}" class="max-h-50 absolute rounded-md border-2 border-teal-600 h-56" src="/images/gifs/math2.webp" alt="Math thinking GIF" />
+
 ---
 layout: intro
 image: ./images/quiz.jpg
@@ -1100,5 +1104,5 @@ image: ./images/thinker.jpg
 </div>
 
 <div class="absolute bottom-4 right-4 opacity-50 text-sm italic">
-  © Unsplash<br>© Giphy<br>© imgflip
+  © Unsplash<br>© Giphy
 </div>
