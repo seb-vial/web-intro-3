@@ -383,7 +383,7 @@ Feel the ~~pain~~ pen in your hand
 - Create a block with an id of **container** and a left margin of 100px
 - Add two paragraphs which possess the same class
 - Both paragraphs have a padding of 10px on each side
-- Add a figure containing a piture with a caption. This figure is positioned relatively and offset to the right by 50px
+- Add a figure containing a picture with a caption. This figure is positioned relatively and offset to the right by 50px
 
 </v-clicks>
 
